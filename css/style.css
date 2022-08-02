@@ -1,0 +1,63 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #150544;
+}
+
+.btn-trial {
+    background-color: #6552FF;
+    color: #fff;
+    border-color: #6552FF;
+}
+
+.btn-get {
+    background-color: #150544;
+    color: #fff;
+    border-color: #150544;
+}
+
+.bg-get {
+    background-color: #150544;
+}
+
+.bg-features {
+    background-image: url('/assets/union-black.png') ;
+    width: 100%;
+}
+
+.border-get {
+    border-color: #150544;
+}
+
+.bg-pricing {
+    background-color: #E7F6FF;
+    width: 100%;
+}
+
+.border-starter {
+    border-style: none;
+}  
+
+h3 {
+    white-space: pre;
+    color: #fff;
+}
+
+.quote {
+    font-size: 100px; 
+    color: #6552FF;
+  }
+
+.bg-quote {
+    background-color: #150544;
+    background-image: url('/assets/union-white.png');
+    width: 100%;
+}
+
+.img-quote {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-image: url('/assets/businesswoman.jpg');
+    background-position: 70% 50%;
+    background-size: 180%;
+}
